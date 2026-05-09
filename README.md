@@ -55,8 +55,7 @@
 ### GitHub Snapshot
 
 <p align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=linsk27&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linsk27&layout=compact&theme=transparent&hide_border=true" />
+  <img src="./assets/github-snapshot.svg" alt="GitHub snapshot for linsk27" width="100%" />
 </p>
 
 ### Focus Right Now
