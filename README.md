@@ -67,6 +67,17 @@ Flask / MySQL             后端接口与数据持久化
 AI tools                  原型设计与开发效率提升
 ```
 
+### Contact
+
+<p>
+  <a href="https://github.com/linsk27">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-linsk27-111827?style=flat-square&logo=github" />
+  </a>
+  <img alt="WeChat" src="https://img.shields.io/badge/WeChat-linsk27-07C160?style=flat-square&logo=wechat&logoColor=white" />
+</p>
+
+You can reach me on WeChat: `linsk27`.
+
 ---
 
 <p align="center">
