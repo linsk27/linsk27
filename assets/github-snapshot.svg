@@ -22,32 +22,32 @@
   <g filter="url(#shadow)">
     <rect x="54" y="54" width="270" height="152" rx="14" fill="#FFFFFF"/>
     <text x="82" y="94" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">Current Focus</text>
-    <rect x="82" y="120" width="72" height="28" rx="14" fill="#DBEAFE"/>
-    <text x="118" y="139" fill="#1D4ED8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="middle">Vue 3</text>
-    <rect x="164" y="120" width="102" height="28" rx="14" fill="#DCFCE7"/>
-    <text x="215" y="139" fill="#15803D" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="middle">TypeScript</text>
-    <rect x="82" y="158" width="74" height="28" rx="14" fill="#FEF3C7"/>
-    <text x="119" y="177" fill="#B45309" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="middle">Nuxt 3</text>
-    <rect x="166" y="158" width="78" height="28" rx="14" fill="#E0F2FE"/>
-    <text x="205" y="177" fill="#0369A1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="middle">Flask</text>
+    <rect x="82" y="120" width="88" height="28" rx="14" fill="#DBEAFE"/>
+    <text x="126" y="139" fill="#1D4ED8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="middle">ProofPR</text>
+    <rect x="180" y="120" width="126" height="28" rx="14" fill="#DCFCE7"/>
+    <text x="243" y="139" fill="#15803D" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="middle">GitHub Action</text>
+    <rect x="82" y="158" width="72" height="28" rx="14" fill="#FEF3C7"/>
+    <text x="118" y="177" fill="#B45309" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="middle">Vue 3</text>
+    <rect x="164" y="158" width="86" height="28" rx="14" fill="#E0F2FE"/>
+    <text x="207" y="177" fill="#0369A1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" text-anchor="middle">AI Apps</text>
   </g>
 
   <g filter="url(#shadow)">
     <rect x="365" y="54" width="270" height="152" rx="14" fill="#FFFFFF"/>
     <text x="393" y="94" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">Build Direction</text>
     <circle cx="406" cy="126" r="5" fill="#0EA5E9"/>
-    <text x="424" y="132" fill="#334155" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">front-end interaction</text>
+    <text x="424" y="132" fill="#334155" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">PR evidence scanning</text>
     <circle cx="406" cy="156" r="5" fill="#22C55E"/>
-    <text x="424" y="162" fill="#334155" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">full-stack learning</text>
+    <text x="424" y="162" fill="#334155" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">full-stack AI blog</text>
     <circle cx="406" cy="186" r="5" fill="#F59E0B"/>
-    <text x="424" y="192" fill="#334155" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">AI-assisted products</text>
+    <text x="424" y="192" fill="#334155" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">front-end visualization</text>
   </g>
 
   <g filter="url(#shadow)">
     <rect x="676" y="54" width="270" height="152" rx="14" fill="#FFFFFF"/>
     <text x="704" y="94" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">Featured Repos</text>
-    <text x="704" y="132" fill="#0369A1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">AI-Vue3-python-flask-Blog</text>
-    <text x="704" y="158" fill="#15803D" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">echarts-learn</text>
+    <text x="704" y="132" fill="#0369A1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">proof-pr</text>
+    <text x="704" y="158" fill="#15803D" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">AI-Vue3-python-flask-Blog</text>
     <text x="704" y="184" fill="#B45309" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">bilibili-nuxt3</text>
   </g>
 </svg>

@@ -31,9 +31,9 @@
     <circle cx="151" cy="126" r="6" fill="#F59E0B"/>
     <circle cx="174" cy="126" r="6" fill="#22C55E"/>
     <text x="126" y="178" fill="#E5E7EB" font-family="Consolas, Monaco, monospace" font-size="24" font-weight="700">linsk27</text>
-    <text x="126" y="218" fill="#93C5FD" font-family="Consolas, Monaco, monospace" font-size="18">const focus = ["Vue", "TypeScript", "AI"];</text>
-    <text x="126" y="254" fill="#86EFAC" font-family="Consolas, Monaco, monospace" font-size="18">build(fullStackIdea).ship();</text>
-    <text x="126" y="290" fill="#FDE68A" font-family="Consolas, Monaco, monospace" font-size="18">learn().write().iterate();</text>
+    <text x="126" y="218" fill="#93C5FD" font-family="Consolas, Monaco, monospace" font-size="18">const focus = ["ProofPR", "Vue", "AI"];</text>
+    <text x="126" y="254" fill="#86EFAC" font-family="Consolas, Monaco, monospace" font-size="18">scan(pr).reportEvidence();</text>
+    <text x="126" y="290" fill="#FDE68A" font-family="Consolas, Monaco, monospace" font-size="18">build(frontendApp).ship();</text>
   </g>
 
   <g filter="url(#softShadow)">
@@ -49,6 +49,6 @@
     <path d="M1012 254H1049M1030 236V272" stroke="#D97706" stroke-width="5" stroke-linecap="round"/>
   </g>
 
-  <text x="92" y="384" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">Front-end practice / AI products / full-stack learning notes</text>
+  <text x="92" y="384" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">PR evidence tools / Front-end apps / AI-assisted workflows</text>
   <text x="1038" y="384" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" text-anchor="end">github.com/linsk27</text>
 </svg>
