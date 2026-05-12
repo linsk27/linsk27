@@ -59,6 +59,29 @@
 | [bilibili-nuxt3](https://github.com/linsk27/bilibili-nuxt3) | Nuxt 3 与 TypeScript 应用结构练习。 | TypeScript, Nuxt 3 |
 | [linsk27.github.io](https://github.com/linsk27/linsk27.github.io) | 个人站点与博客部署。 | HTML, Vercel |
 
+### Try ProofPR
+
+<p>
+  <a href="https://www.npmjs.com/package/proof-pr">
+    <img alt="proof-pr npm version" src="https://img.shields.io/npm/v/proof-pr?style=flat-square&logo=npm&logoColor=white&color=CB3837" />
+  </a>
+  <a href="https://github.com/linsk27/proof-pr/releases">
+    <img alt="proof-pr latest release" src="https://img.shields.io/github/v/release/linsk27/proof-pr?style=flat-square&logo=github&color=0f766e" />
+  </a>
+</p>
+
+```bash
+npx proof-pr@latest scan --base origin/main --head HEAD --locale zh-CN
+```
+
+```yaml
+- uses: actions/checkout@v4
+- uses: linsk27/proof-pr@v0.1.16
+  with:
+    fail-on: high
+    comment: "true"
+```
+
 ### GitHub Snapshot
 
 <p align="center">
@@ -83,7 +106,8 @@ Flask / MySQL             AI 博客系统的后端接口与数据持久化
   <img alt="WeChat" src="https://img.shields.io/badge/WeChat-linsk27-07C160?style=flat-square&logo=wechat&logoColor=white" />
 </p>
 
-You can reach me on WeChat: `linsk27`.
+- Project questions: open an issue in the matching repository.
+- Collaboration or quick contact: WeChat `linsk27`.
 
 ---
 
