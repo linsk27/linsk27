@@ -1,54 +1,52 @@
-<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">linsk27 GitHub profile banner</title>
-  <desc id="desc">A clean developer profile banner with code panels and product interface shapes.</desc>
+  <desc id="desc">An elegant profile banner for developer tools, AI products, and Vue applications.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0B1220"/>
-      <stop offset="0.42" stop-color="#101827"/>
-      <stop offset="1" stop-color="#052E2B"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1120"/>
+      <stop offset="0.52" stop-color="#111827"/>
+      <stop offset="1" stop-color="#073B3A"/>
     </linearGradient>
-    <linearGradient id="accent" x1="126" y1="70" x2="1090" y2="330" gradientUnits="userSpaceOnUse">
+    <linearGradient id="line" x1="160" y1="270" x2="1120" y2="70" gradientUnits="userSpaceOnUse">
       <stop stop-color="#38BDF8"/>
-      <stop offset="0.48" stop-color="#22C55E"/>
-      <stop offset="1" stop-color="#F59E0B"/>
+      <stop offset="0.5" stop-color="#2DD4BF"/>
+      <stop offset="1" stop-color="#FBBF24"/>
     </linearGradient>
-    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
-      <feDropShadow dx="0" dy="18" stdDeviation="24" flood-color="#000000" flood-opacity="0.28"/>
+    <filter id="shadow" x="-10%" y="-20%" width="120%" height="140%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#000000" flood-opacity="0.28"/>
     </filter>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="1"/>
-    </pattern>
   </defs>
 
-  <rect width="1280" height="420" rx="0" fill="url(#bg)"/>
-  <rect width="1280" height="420" fill="url(#grid)"/>
-  <path d="M60 330C210 230 278 385 428 265C566 155 640 198 748 126C894 29 1006 76 1226 42" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" opacity="0.92"/>
-  <path d="M80 360C246 254 348 382 486 292C625 201 705 240 828 178C972 106 1082 136 1210 100" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" opacity="0.16"/>
+  <rect width="1280" height="360" fill="url(#bg)"/>
+  <path d="M95 271C236 173 342 245 482 161C622 77 718 137 849 83C969 34 1074 50 1184 84" stroke="url(#line)" stroke-width="3" stroke-linecap="round" opacity="0.9"/>
+  <path d="M116 300C269 218 354 277 504 211C674 137 767 174 894 126C1008 83 1090 97 1172 126" stroke="#E5E7EB" stroke-width="1.4" stroke-linecap="round" opacity="0.22"/>
 
-  <g filter="url(#softShadow)">
-    <rect x="92" y="92" width="470" height="238" rx="22" fill="#0F172A" fill-opacity="0.86" stroke="#FFFFFF" stroke-opacity="0.12"/>
-    <circle cx="128" cy="126" r="6" fill="#EF4444"/>
-    <circle cx="151" cy="126" r="6" fill="#F59E0B"/>
-    <circle cx="174" cy="126" r="6" fill="#22C55E"/>
-    <text x="126" y="178" fill="#E5E7EB" font-family="Consolas, Monaco, monospace" font-size="24" font-weight="700">linsk27</text>
-    <text x="126" y="218" fill="#93C5FD" font-family="Consolas, Monaco, monospace" font-size="18">const focus = ["ProofPR", "Vue", "AI"];</text>
-    <text x="126" y="254" fill="#86EFAC" font-family="Consolas, Monaco, monospace" font-size="18">scan(pr).reportEvidence();</text>
-    <text x="126" y="290" fill="#FDE68A" font-family="Consolas, Monaco, monospace" font-size="18">build(frontendApp).ship();</text>
+  <g filter="url(#shadow)">
+    <rect x="86" y="72" width="486" height="190" rx="24" fill="#F8FAFC" fill-opacity="0.96"/>
+    <text x="126" y="136" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="42" font-weight="800">linsk27</text>
+    <text x="126" y="178" fill="#334155" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20">Developer tools, AI products, Vue applications</text>
+    <rect x="126" y="210" width="88" height="8" rx="4" fill="#38BDF8"/>
+    <rect x="226" y="210" width="88" height="8" rx="4" fill="#2DD4BF"/>
+    <rect x="326" y="210" width="88" height="8" rx="4" fill="#FBBF24"/>
   </g>
 
-  <g filter="url(#softShadow)">
-    <rect x="706" y="82" width="408" height="256" rx="28" fill="#F8FAFC" fill-opacity="0.94"/>
-    <rect x="742" y="122" width="118" height="14" rx="7" fill="#0F172A" fill-opacity="0.88"/>
-    <rect x="742" y="154" width="300" height="10" rx="5" fill="#334155" fill-opacity="0.18"/>
-    <rect x="742" y="176" width="246" height="10" rx="5" fill="#334155" fill-opacity="0.14"/>
-    <rect x="742" y="224" width="96" height="68" rx="14" fill="#DBEAFE"/>
-    <rect x="862" y="224" width="96" height="68" rx="14" fill="#DCFCE7"/>
-    <rect x="982" y="224" width="96" height="68" rx="14" fill="#FEF3C7"/>
-    <path d="M765 266L782 250L799 266L817 242" stroke="#2563EB" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M889 258L910 239L934 267" stroke="#16A34A" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M1012 254H1049M1030 236V272" stroke="#D97706" stroke-width="5" stroke-linecap="round"/>
+  <g filter="url(#shadow)">
+    <rect x="666" y="84" width="176" height="148" rx="22" fill="#0F172A" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <text x="754" y="141" fill="#E0F2FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">ProofPR</text>
+    <text x="754" y="174" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" text-anchor="middle">Review evidence</text>
   </g>
 
-  <text x="92" y="384" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">PR evidence tools / Front-end apps / AI-assisted workflows</text>
-  <text x="1038" y="384" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" text-anchor="end">github.com/linsk27</text>
+  <g filter="url(#shadow)">
+    <rect x="872" y="84" width="176" height="148" rx="22" fill="#0F172A" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <text x="960" y="141" fill="#CCFBF1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">AI Blog</text>
+    <text x="960" y="174" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" text-anchor="middle">Full-stack app</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="1078" y="84" width="176" height="148" rx="22" fill="#0F172A" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <text x="1166" y="141" fill="#FEF3C7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">Vue</text>
+    <text x="1166" y="174" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" text-anchor="middle">Product interface</text>
+  </g>
+
+  <text x="86" y="318" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">github.com/linsk27</text>
 </svg>
