@@ -5,11 +5,13 @@
 <h1 align="center">linsk27</h1>
 
 <p align="center">
-  Building developer tools, AI products, and thoughtful Vue applications.
+  Building local-first developer tools, AI products, and thoughtful Vue applications.
 </p>
 
 <p align="center">
   <a href="https://github.com/linsk27?tab=repositories">Projects</a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/linsk27/local-dev-cockpit">Dev Cockpit</a>
   &nbsp;&nbsp;
   <a href="https://linsk27-github-io.vercel.app">Blog</a>
   &nbsp;&nbsp;
@@ -18,11 +20,14 @@
 
 ### About
 
-我喜欢把一个想法做成真正可运行、可验证、可交付的项目。现在主要关注开发者工具、AI 辅助开发、前端应用结构，以及全栈产品从界面到数据流的完整体验。
+我喜欢把一个想法做成真正可运行、可验证、可交付的项目。现在主要关注本地开发工作流、AI 辅助开发、前端应用结构，以及全栈产品从界面到数据流的完整体验。
 
-最近的重点是 [ProofPR](https://github.com/linsk27/proof-pr)，一个面向维护者的 PR 证据检查器。它关注测试、描述质量、secrets、依赖、CI 权限和 MCP 风险，帮助维护者先看证据，再决定如何 review。
+最近在做 [Dev Cockpit](https://github.com/linsk27/local-dev-cockpit) 和 [ProofPR](https://github.com/linsk27/proof-pr)。前者用于恢复本地项目现场，后者用于整理 Pull Request 里的证据信号。两者都围绕同一个目标：减少重复判断，让开发者更快回到真正需要处理的问题上。
 
 ### Selected Work
+
+**[Dev Cockpit](https://github.com/linsk27/local-dev-cockpit)**  
+本地开发工作台，用来集中查看项目、启动命令、日志、端口、Git 状态和 AI 上下文。它关注的是个人开发中的现场恢复：知道项目怎么跑、哪里在线、上次失败在哪里，以及如何把背景快速交给 AI coding agent。
 
 **[ProofPR](https://github.com/linsk27/proof-pr)**  
 面向开源维护者的 PR 证据检查器，也是可以接入仓库的 GitHub Action。它把 Pull Request 中容易被忽略的风险信号整理成报告，让 review 更有依据。
@@ -41,13 +46,13 @@ Nuxt 3 与 TypeScript 应用结构练习，沉淀现代前端项目的组织方�
 
 ### Stack
 
-Vue 3, TypeScript, JavaScript, Nuxt 3, Node.js, GitHub Actions, Python, Flask, MySQL, ECharts.
+Vue 3, TypeScript, JavaScript, Nuxt 3, Node.js, Vite, Electron, GitHub Actions, Python, Flask, MySQL, ECharts.
 
 ### Now
 
-- 打磨 ProofPR 的检测规则、报告质量和安装体验。
+- 打磨 Dev Cockpit 的本地项目扫描、状态恢复和 AI 上下文体验。
+- 继续完善 ProofPR 的检测规则、报告质量和维护者工作流。
 - 继续完善 AI 博客系统的产品完整度。
-- 练习更稳定、清晰、可复用的前端应用结构。
 
 ### Contact
 
