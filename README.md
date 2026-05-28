@@ -11,11 +11,11 @@
 <p align="center">
   <a href="https://linsk27-github-io.vercel.app/projects/">Project hub</a>
   &nbsp;&nbsp;
-  <a href="https://github.com/linsk27/local-dev-cockpit">Dev Cockpit</a>
+  <a href="https://linsk27-github-io.vercel.app/projects/dev-cockpit/">Dev Cockpit</a>
   &nbsp;&nbsp;
   <a href="https://linsk27-github-io.vercel.app">Blog</a>
   &nbsp;&nbsp;
-  <a href="https://github.com/linsk27/proof-pr">ProofPR</a>
+  <a href="https://linsk27-github-io.vercel.app/projects/proofpr/">ProofPR</a>
 </p>
 
 ### About
@@ -60,11 +60,15 @@ Next.js and TypeScript prototype for AI learning dashboards, v0.dev UI experimen
 
 ### Selected Work
 
-**[Dev Cockpit](https://github.com/linsk27/local-dev-cockpit)**  
+**[Dev Cockpit](https://linsk27-github-io.vercel.app/projects/dev-cockpit/)**  
 本地开发工作台，用来集中查看项目、启动命令、日志、端口、Git 状态和 AI 上下文。它关注的是个人开发中的现场恢复：知道项目怎么跑、哪里在线、上次失败在哪里，以及如何把背景快速交给 AI coding agent。
 
-**[ProofPR](https://github.com/linsk27/proof-pr)**  
+[Repository](https://github.com/linsk27/local-dev-cockpit)
+
+**[ProofPR](https://linsk27-github-io.vercel.app/projects/proofpr/)**  
 面向开源维护者的 PR 证据检查器，也是可以接入仓库的 GitHub Action。它把 Pull Request 中容易被忽略的风险信号整理成报告，让 review 更有依据。
+
+[Repository](https://github.com/linsk27/proof-pr)
 
 **[AI-Vue3-python-flask-Blog](https://linsk27-github-io.vercel.app/projects/ai-vue-flask-blog/)**  
 Vue 3、Flask 和 MySQL 组成的 AI 博客系统，覆盖前端页面、后端接口、数据持久化和内容管理，适合作为完整全栈项目继续扩展。
@@ -77,11 +81,15 @@ Vue 博客前端项目，包含文章入口、AI 中心和数据分析看板等�
 
 [Repository](https://github.com/linsk27/Vue-blog)
 
-**[echarts-learn](https://github.com/linsk27/echarts-learn)**  
-Vue 与 ECharts 的数据可视化练习，关注图表表达、交互细节和信息呈现。
+**[echarts-learn](https://linsk27-github-io.vercel.app/projects/echarts-learn/)**  
+Vue、Nuxt 和 ECharts 数据可视化练习，展示 dashboard 布局、柱状图、雷达图、关系图、环形图和词云等页面组合。
 
-**[bilibili-nuxt3](https://github.com/linsk27/bilibili-nuxt3)**  
-Nuxt 3 与 TypeScript 应用结构练习，沉淀现代前端项目的组织方式。
+[Repository](https://github.com/linsk27/echarts-learn)
+
+**[bilibili-nuxt3](https://linsk27-github-io.vercel.app/projects/bilibili-nuxt3/)**  
+Nuxt 3、Vue、TypeScript 和 Vant 移动端项目实战，展示 SSR、SEO、频道导航、视频列表和详情页结构。
+
+[Repository](https://github.com/linsk27/bilibili-nuxt3)
 
 ### Stack
 
