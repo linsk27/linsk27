@@ -5,13 +5,15 @@
 <h1 align="center">linsk27</h1>
 
 <p align="center">
-  Building local development tools, AI coding workflows, agent skill managers, and thoughtful Vue applications.
+  Building local development tools, AI coding workflows, agent skill managers, data dashboards, and thoughtful Vue applications.
 </p>
 
 <p align="center">
   <a href="https://linsk27-github-io.vercel.app/projects/">Project hub</a>
   &nbsp;&nbsp;
   <a href="https://linsk27-github-io.vercel.app/projects/skills-manage/">skills-manage</a>
+  &nbsp;&nbsp;
+  <a href="https://linsk27-github-io.vercel.app/projects/feidu/">feidu</a>
   &nbsp;&nbsp;
   <a href="https://linsk27-github-io.vercel.app/projects/dev-cockpit/">Dev Cockpit</a>
   &nbsp;&nbsp;
@@ -51,6 +53,15 @@ Tauri desktop app for managing AI coding agent skills across Claude Code, Codex 
   <img src="./assets/showcase/skills-manage-central-library.png" alt="skills-manage central library showing AI coding agent skills across multiple platforms" width="100%" />
 </p>
 
+**[feidu](https://linsk27-github-io.vercel.app/projects/feidu/)**  
+Nuxt 3, Vue, Tailwind CSS and ECharts smart community dashboard for security monitoring, CIM platform, energy monitoring, and data visualization.
+
+[Repository](https://github.com/linsk27/feidu) · [Demo](https://feidu-murex.vercel.app)
+
+<p>
+  <img src="./assets/showcase/feidu-smart-community-dashboard.jpg" alt="feidu smart community dashboard showing security monitoring, CIM platform, energy data, and visualization panels" width="100%" />
+</p>
+
 **[AI-Vue3-python-flask-Blog](https://linsk27-github-io.vercel.app/projects/ai-vue-flask-blog/)**  
 Vue 3, Flask, MySQL and AI blog system for full-stack project practice, course design, graduation project, and secondary development.
 
@@ -86,6 +97,11 @@ AI coding agent skills 管理桌面应用，用来把 Claude Code、Codex CLI、
 
 [Repository](https://github.com/linsk27/skills-manage)
 
+**[feidu](https://linsk27-github-io.vercel.app/projects/feidu/)**  
+Nuxt 3、Vue、Tailwind CSS 和 ECharts 智慧社区数据大屏，覆盖社区管理、安防监控、CIM 平台、能源检测和节能分析。适合参考数据大屏、智慧园区、安防运维和能源看板类前端实现。
+
+[Repository](https://github.com/linsk27/feidu) · [Demo](https://feidu-murex.vercel.app)
+
 **[AI-Vue3-python-flask-Blog](https://linsk27-github-io.vercel.app/projects/ai-vue-flask-blog/)**  
 Vue 3、Flask 和 MySQL 组成的 AI 博客系统，覆盖前端页面、后端接口、数据持久化和内容管理，适合作为完整全栈项目继续扩展。
 
@@ -109,11 +125,11 @@ Nuxt 3、Vue、TypeScript 和 Vant 移动端项目实战，展示 SSR、SEO、�
 
 ### Stack
 
-Vue 3, React, TypeScript, JavaScript, Nuxt 3, Node.js, Vite, Electron, Tauri, GitHub Actions, Python, Flask, MySQL, ECharts.
+Vue 3, React, TypeScript, JavaScript, Nuxt 3, Node.js, Vite, Electron, Tauri, GitHub Actions, Python, Flask, MySQL, ECharts, Tailwind CSS.
 
 ### Focus Areas
 
-I work around local development dashboards, developer workflow tools, AI coding assistants, agent skills management, pull request review automation, GitHub Actions, TypeScript CLI tools, Vue 3 applications, Nuxt frontends, Flask APIs, MySQL-backed systems, and data visualization.
+I work around local development dashboards, developer workflow tools, AI coding assistants, agent skills management, pull request review automation, GitHub Actions, TypeScript CLI tools, Vue 3 applications, Nuxt frontends, Flask APIs, MySQL-backed systems, smart community dashboards, and data visualization.
 
 ### Now
 
