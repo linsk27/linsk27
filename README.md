@@ -72,8 +72,10 @@ Vue 3、Flask 和 MySQL 组成的 AI 博客系统，覆盖前端页面、后端�
 **[AI-v0.dev-](https://linsk27-github-io.vercel.app/projects/ai-v0-dev/)**  
 围绕 AI 界面和产品原型的 TypeScript 实践，用来探索更快的前端构建方式和更自然的交互表达。
 
-**[Vue-blog](https://github.com/linsk27/Vue-blog)**  
+**[Vue-blog](https://linsk27-github-io.vercel.app/projects/vue-blog/)**  
 Vue 博客前端项目，包含文章入口、AI 中心和数据分析看板等页面结构。线上演示：[vue-blog-smoky.vercel.app](https://vue-blog-smoky.vercel.app/)。
+
+[Repository](https://github.com/linsk27/Vue-blog)
 
 **[echarts-learn](https://github.com/linsk27/echarts-learn)**  
 Vue 与 ECharts 的数据可视化练习，关注图表表达、交互细节和信息呈现。
