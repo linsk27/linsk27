@@ -47,6 +47,13 @@ Vue 3, Flask, MySQL and AI blog system for full-stack project practice, course d
   <img src="./assets/showcase/ai-vue-flask-blog-home-page.png" alt="AI Vue Flask blog home page showing a full-stack blog system with articles and content layout" width="100%" />
 </p>
 
+**[AI-v0.dev-](https://github.com/linsk27/AI-v0.dev-)**  
+Next.js and TypeScript prototype for AI learning dashboards, v0.dev UI experiments, project cards, and progress tracking.
+
+<p>
+  <img src="./assets/showcase/ai-v0-dev-learning-dashboard.png" alt="AI v0 learning dashboard showing progress, milestones, tasks, and project planning panels" width="100%" />
+</p>
+
 ### Selected Work
 
 **[Dev Cockpit](https://github.com/linsk27/local-dev-cockpit)**  
@@ -60,6 +67,9 @@ Vue 3、Flask 和 MySQL 组成的 AI 博客系统，覆盖前端页面、后端�
 
 **[AI-v0.dev-](https://github.com/linsk27/AI-v0.dev-)**  
 围绕 AI 界面和产品原型的 TypeScript 实践，用来探索更快的前端构建方式和更自然的交互表达。
+
+**[Vue-blog](https://github.com/linsk27/Vue-blog)**  
+Vue 博客前端项目，包含文章入口、AI 中心和数据分析看板等页面结构。线上演示：[vue-blog-smoky.vercel.app](https://vue-blog-smoky.vercel.app/)。
 
 **[echarts-learn](https://github.com/linsk27/echarts-learn)**  
 Vue 与 ECharts 的数据可视化练习，关注图表表达、交互细节和信息呈现。
