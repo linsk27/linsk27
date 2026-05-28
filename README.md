@@ -13,6 +13,8 @@
   &nbsp;&nbsp;
   <a href="https://linsk27-github-io.vercel.app/about/">关于我</a>
   &nbsp;&nbsp;
+  <a href="https://linsk27-github-io.vercel.app/github/">GitHub 项目</a>
+  &nbsp;&nbsp;
   <a href="https://linsk27-github-io.vercel.app/projects/skills-manage/">skills-manage</a>
   &nbsp;&nbsp;
   <a href="https://linsk27-github-io.vercel.app/projects/feidu/">feidu</a>
