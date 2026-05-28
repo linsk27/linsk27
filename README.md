@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="linsk27 profile banner" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="linsk27 profile for local developer tools, AI coding products, and Vue applications" width="100%" />
 </p>
 
 <h1 align="center">linsk27</h1>
 
 <p align="center">
-  Building local-first developer tools, AI products, and thoughtful Vue applications.
+  Building local development tools, AI coding workflows, and thoughtful Vue applications.
 </p>
 
 <p align="center">
@@ -23,6 +23,29 @@
 我喜欢把一个想法做成真正可运行、可验证、可交付的项目。现在主要关注本地开发工作流、AI 辅助开发、前端应用结构，以及全栈产品从界面到数据流的完整体验。
 
 最近在做 [Dev Cockpit](https://github.com/linsk27/local-dev-cockpit) 和 [ProofPR](https://github.com/linsk27/proof-pr)。前者用于恢复本地项目现场，后者用于整理 Pull Request 里的证据信号。两者都围绕同一个目标：减少重复判断，让开发者更快回到真正需要处理的问题上。
+
+### Showcase
+
+**[Dev Cockpit](https://github.com/linsk27/local-dev-cockpit)**  
+Local development dashboard for project state, commands, logs, ports, Git status, and AI context.
+
+<p>
+  <img src="./assets/showcase/dev-cockpit-local-development-dashboard.png" alt="Dev Cockpit local development dashboard showing projects, ports, commands, logs, Git status, and AI context" width="100%" />
+</p>
+
+**[ProofPR](https://github.com/linsk27/proof-pr)**  
+GitHub Action and CLI for pull request evidence scanning, PR review, secrets detection, dependency risk, CI permission checks, and MCP security.
+
+<p>
+  <img src="./assets/showcase/proofpr-github-action-pr-review-report.png" alt="ProofPR GitHub Action PR review report showing evidence, findings, risk signals, and maintainer guidance" width="100%" />
+</p>
+
+**[AI-Vue3-python-flask-Blog](https://github.com/linsk27/AI-Vue3-python-flask-Blog)**  
+Vue 3, Flask, MySQL and AI blog system for full-stack project practice, course design, graduation project, and secondary development.
+
+<p>
+  <img src="./assets/showcase/ai-vue-flask-blog-home-page.png" alt="AI Vue Flask blog home page showing a full-stack blog system with articles and content layout" width="100%" />
+</p>
 
 ### Selected Work
 
@@ -48,6 +71,10 @@ Nuxt 3 与 TypeScript 应用结构练习，沉淀现代前端项目的组织方�
 
 Vue 3, TypeScript, JavaScript, Nuxt 3, Node.js, Vite, Electron, GitHub Actions, Python, Flask, MySQL, ECharts.
 
+### Focus Areas
+
+I work around local development dashboards, developer workflow tools, AI coding assistants, pull request review automation, GitHub Actions, TypeScript CLI tools, Vue 3 applications, Nuxt frontends, Flask APIs, MySQL-backed systems, and data visualization.
+
 ### Now
 
 - 打磨 Dev Cockpit 的本地项目扫描、状态恢复和 AI 上下文体验。
@@ -58,3 +85,5 @@ Vue 3, TypeScript, JavaScript, Nuxt 3, Node.js, Vite, Electron, GitHub Actions, 
 
 项目问题欢迎在对应仓库提交 issue。  
 合作或快速联系可以加微信：linsk27。
+
+If one of these tools is useful to you, starring the repository is the clearest signal for what I should improve next.
