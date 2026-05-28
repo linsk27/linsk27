@@ -11,6 +11,8 @@
 <p align="center">
   <a href="https://linsk27-github-io.vercel.app/projects/">Project hub</a>
   &nbsp;&nbsp;
+  <a href="https://linsk27-github-io.vercel.app/about/">About</a>
+  &nbsp;&nbsp;
   <a href="https://linsk27-github-io.vercel.app/projects/skills-manage/">skills-manage</a>
   &nbsp;&nbsp;
   <a href="https://linsk27-github-io.vercel.app/projects/feidu/">feidu</a>
@@ -24,9 +26,11 @@
 
 ### About
 
-我喜欢把一个想法做成真正可运行、可验证、可交付的项目。现在主要关注本地开发工作流、AI 辅助开发、前端应用结构，以及全栈产品从界面到数据流的完整体验。
+我喜欢把一个想法做成真正可运行、可验证、可交付的项目。现在主要关注本地开发工作流、AI 辅助开发、前端应用结构、数据可视化大屏，以及全栈产品从界面到数据流的完整体验。
 
 最近在做 [Dev Cockpit](https://github.com/linsk27/local-dev-cockpit) 和 [ProofPR](https://github.com/linsk27/proof-pr)。前者用于恢复本地项目现场，后者用于整理 Pull Request 里的证据信号。两者都围绕同一个目标：减少重复判断，让开发者更快回到真正需要处理的问题上。
+
+More context: [About linsk27](https://linsk27-github-io.vercel.app/about/)
 
 ### Showcase
 
