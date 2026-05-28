@@ -5,11 +5,13 @@
 <h1 align="center">linsk27</h1>
 
 <p align="center">
-  Building local development tools, AI coding workflows, and thoughtful Vue applications.
+  Building local development tools, AI coding workflows, agent skill managers, and thoughtful Vue applications.
 </p>
 
 <p align="center">
   <a href="https://linsk27-github-io.vercel.app/projects/">Project hub</a>
+  &nbsp;&nbsp;
+  <a href="https://linsk27-github-io.vercel.app/projects/skills-manage/">skills-manage</a>
   &nbsp;&nbsp;
   <a href="https://linsk27-github-io.vercel.app/projects/dev-cockpit/">Dev Cockpit</a>
   &nbsp;&nbsp;
@@ -38,6 +40,15 @@ GitHub Action and CLI for pull request evidence scanning, PR review, secrets det
 
 <p>
   <img src="./assets/showcase/proofpr-github-action-pr-review-report.png" alt="ProofPR GitHub Action PR review report showing evidence, findings, risk signals, and maintainer guidance" width="100%" />
+</p>
+
+**[skills-manage](https://linsk27-github-io.vercel.app/projects/skills-manage/)**  
+Tauri desktop app for managing AI coding agent skills across Claude Code, Codex CLI, Cursor, Gemini CLI, and more than 20 platforms.
+
+[Repository](https://github.com/linsk27/skills-manage)
+
+<p>
+  <img src="./assets/showcase/skills-manage-central-library.png" alt="skills-manage central library showing AI coding agent skills across multiple platforms" width="100%" />
 </p>
 
 **[AI-Vue3-python-flask-Blog](https://linsk27-github-io.vercel.app/projects/ai-vue-flask-blog/)**  
@@ -70,6 +81,11 @@ Next.js and TypeScript prototype for AI learning dashboards, v0.dev UI experimen
 
 [Repository](https://github.com/linsk27/proof-pr)
 
+**[skills-manage](https://linsk27-github-io.vercel.app/projects/skills-manage/)**  
+AI coding agent skills 管理桌面应用，用来把 Claude Code、Codex CLI、Cursor、Gemini CLI 等 20 多个平台的 skills 集中管理、搜索、导入和安装。
+
+[Repository](https://github.com/linsk27/skills-manage)
+
 **[AI-Vue3-python-flask-Blog](https://linsk27-github-io.vercel.app/projects/ai-vue-flask-blog/)**  
 Vue 3、Flask 和 MySQL 组成的 AI 博客系统，覆盖前端页面、后端接口、数据持久化和内容管理，适合作为完整全栈项目继续扩展。
 
@@ -93,11 +109,11 @@ Nuxt 3、Vue、TypeScript 和 Vant 移动端项目实战，展示 SSR、SEO、�
 
 ### Stack
 
-Vue 3, TypeScript, JavaScript, Nuxt 3, Node.js, Vite, Electron, GitHub Actions, Python, Flask, MySQL, ECharts.
+Vue 3, React, TypeScript, JavaScript, Nuxt 3, Node.js, Vite, Electron, Tauri, GitHub Actions, Python, Flask, MySQL, ECharts.
 
 ### Focus Areas
 
-I work around local development dashboards, developer workflow tools, AI coding assistants, pull request review automation, GitHub Actions, TypeScript CLI tools, Vue 3 applications, Nuxt frontends, Flask APIs, MySQL-backed systems, and data visualization.
+I work around local development dashboards, developer workflow tools, AI coding assistants, agent skills management, pull request review automation, GitHub Actions, TypeScript CLI tools, Vue 3 applications, Nuxt frontends, Flask APIs, MySQL-backed systems, and data visualization.
 
 ### Now
 
