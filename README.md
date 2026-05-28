@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/linsk27?tab=repositories">Projects</a>
+  <a href="https://linsk27-github-io.vercel.app/projects/">Project hub</a>
   &nbsp;&nbsp;
   <a href="https://github.com/linsk27/local-dev-cockpit">Dev Cockpit</a>
   &nbsp;&nbsp;
@@ -40,15 +40,19 @@ GitHub Action and CLI for pull request evidence scanning, PR review, secrets det
   <img src="./assets/showcase/proofpr-github-action-pr-review-report.png" alt="ProofPR GitHub Action PR review report showing evidence, findings, risk signals, and maintainer guidance" width="100%" />
 </p>
 
-**[AI-Vue3-python-flask-Blog](https://github.com/linsk27/AI-Vue3-python-flask-Blog)**  
+**[AI-Vue3-python-flask-Blog](https://linsk27-github-io.vercel.app/projects/ai-vue-flask-blog/)**  
 Vue 3, Flask, MySQL and AI blog system for full-stack project practice, course design, graduation project, and secondary development.
+
+[Repository](https://github.com/linsk27/AI-Vue3-python-flask-Blog)
 
 <p>
   <img src="./assets/showcase/ai-vue-flask-blog-home-page.png" alt="AI Vue Flask blog home page showing a full-stack blog system with articles and content layout" width="100%" />
 </p>
 
-**[AI-v0.dev-](https://github.com/linsk27/AI-v0.dev-)**  
+**[AI-v0.dev-](https://linsk27-github-io.vercel.app/projects/ai-v0-dev/)**  
 Next.js and TypeScript prototype for AI learning dashboards, v0.dev UI experiments, project cards, and progress tracking.
+
+[Repository](https://github.com/linsk27/AI-v0.dev-)
 
 <p>
   <img src="./assets/showcase/ai-v0-dev-learning-dashboard.png" alt="AI v0 learning dashboard showing progress, milestones, tasks, and project planning panels" width="100%" />
@@ -62,10 +66,10 @@ Next.js and TypeScript prototype for AI learning dashboards, v0.dev UI experimen
 **[ProofPR](https://github.com/linsk27/proof-pr)**  
 面向开源维护者的 PR 证据检查器，也是可以接入仓库的 GitHub Action。它把 Pull Request 中容易被忽略的风险信号整理成报告，让 review 更有依据。
 
-**[AI-Vue3-python-flask-Blog](https://github.com/linsk27/AI-Vue3-python-flask-Blog)**  
+**[AI-Vue3-python-flask-Blog](https://linsk27-github-io.vercel.app/projects/ai-vue-flask-blog/)**  
 Vue 3、Flask 和 MySQL 组成的 AI 博客系统，覆盖前端页面、后端接口、数据持久化和内容管理，适合作为完整全栈项目继续扩展。
 
-**[AI-v0.dev-](https://github.com/linsk27/AI-v0.dev-)**  
+**[AI-v0.dev-](https://linsk27-github-io.vercel.app/projects/ai-v0-dev/)**  
 围绕 AI 界面和产品原型的 TypeScript 实践，用来探索更快的前端构建方式和更自然的交互表达。
 
 **[Vue-blog](https://github.com/linsk27/Vue-blog)**  
