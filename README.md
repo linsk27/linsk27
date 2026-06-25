@@ -32,7 +32,7 @@
 
 我主要做前端应用、开发者工具、数据可视化和全栈项目实践。比起只写 demo，我更关注一个项目能不能被真正跑起来、看明白、继续迭代：界面结构、状态流、接口、部署、文档和交付体验都要闭环。
 
-目前重点在打磨 Dev Cockpit、ProofPR、skills-manage，以及一组 Vue / Nuxt / Flask 项目。我的项目通常会保留成品截图、运行路径和实现笔记，方便别人快速判断它能解决什么问题。
+目前重点在打磨 Local AI Ops、Dev Cockpit、ProofPR、skills-manage，以及一组 Vue / Nuxt / Flask 项目。我的项目通常会保留成品截图、运行路径和实现笔记，方便别人快速判断它能解决什么问题。
 
 ## 项目短片
 
@@ -46,6 +46,7 @@
 
 | 项目 | 简介 | 技术栈 | 链接 |
 | --- | --- | --- | --- |
+| Local AI Ops | 局域网本地阿里云 AI 运维工作台，整理云资源、监控检查、告警和 AI 排查建议。 | FastAPI, React, PostgreSQL | [Repo](https://github.com/linsk27/local-ai-ops) / [Article](https://linsk27.github.io/projects/local-ai-ops/) |
 | Dev Cockpit | 本地开发工作台，集中查看项目、启动命令、端口、日志、Git 状态和上下文信息。 | React, TypeScript, Node.js | [Repo](https://github.com/linsk27/local-dev-cockpit) / [Article](https://linsk27.github.io/projects/dev-cockpit/) |
 | ProofPR | 面向开源维护者的 PR 证据检查器，可作为 GitHub Action 输出 review 风险报告。 | TypeScript, GitHub Actions | [Repo](https://github.com/linsk27/proof-pr) / [Article](https://linsk27.github.io/projects/proofpr/) |
 | skills-manage | 管理多平台 coding agent skills 的 Tauri 桌面应用，支持集中搜索、导入和安装。 | Tauri, Vue, TypeScript | [Repo](https://github.com/linsk27/skills-manage) / [Article](https://linsk27.github.io/projects/skills-manage/) |
@@ -61,10 +62,11 @@
 | 开发者工具 | 本地开发工作流、项目状态恢复、CLI 和桌面工具。 |
 | 自动化与证据 | GitHub Actions、PR review 报告、风险信号整理。 |
 | 数据可视化 | ECharts 大屏、业务看板、社区和能源数据展示。 |
-| 全栈实践 | Flask、MySQL、接口设计、部署和项目文档。 |
+| 全栈实践 | FastAPI、Flask、MySQL、PostgreSQL、接口设计、部署和项目文档。 |
 
 ## 最近在做
 
+- 整理 Local AI Ops 的云资源同步、监控检查和 AI 排查文章。
 - 完善 Dev Cockpit 的本地项目扫描、启动状态和日志体验。
 - 继续扩展 ProofPR 的检查规则和报告可读性。
 - 整理 skills-manage 的多平台 skills 管理流程。
@@ -82,6 +84,6 @@
 
 I build frontend applications, developer tools, data dashboards, and full-stack practice projects. I care about projects that are runnable, understandable, and easy to continue: clean UI structure, state flow, APIs, deployment notes, documentation, and visible product outcomes.
 
-Selected work includes Dev Cockpit, ProofPR, skills-manage, feidu, and several Vue / Nuxt / Flask projects. Most repositories include screenshots, project notes, and a clear path for running or reviewing the result.
+Selected work includes Local AI Ops, Dev Cockpit, ProofPR, skills-manage, feidu, and several Vue / Nuxt / Flask projects. Most repositories include screenshots, project notes, and a clear path for running or reviewing the result.
 
 For collaboration or quick contact, reach me on GitHub or WeChat: `linsk27`.
