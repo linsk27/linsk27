@@ -57,7 +57,6 @@
 | Local AI Ops | 局域网本地阿里云运维工作台，整理云资源、监控检查、告警闭环和排查建议。 | FastAPI, React, PostgreSQL | [Repo](https://github.com/linsk27/local-ai-ops) / [Article](https://linsk27.github.io/projects/local-ai-ops/) |
 | Dev Cockpit | 本地开发工作台，恢复项目状态、启动命令、端口日志、Git 状态和开发上下文。 | React, TypeScript, Node.js | [Repo](https://github.com/linsk27/local-dev-cockpit) / [Article](https://linsk27.github.io/projects/dev-cockpit/) |
 | ProofPR | PR 证据检查器，把测试、依赖、权限、密钥和审查风险整理成维护者报告。 | TypeScript, GitHub Actions | [Repo](https://github.com/linsk27/proof-pr) / [Article](https://linsk27.github.io/projects/proofpr/) |
-| skills-manage | 跨平台 skills 管理桌面应用，集中管理本地 skills、平台安装和 GitHub 导入。 | Tauri, Vue, TypeScript | [Repo](https://github.com/linsk27/skills-manage) / [Article](https://linsk27.github.io/projects/skills-manage/) |
 | feidu | 智慧社区数据大屏，覆盖安防监控、CIM 平台、能源数据和可视化看板。 | Nuxt, Vue, ECharts | [Repo](https://github.com/linsk27/feidu) / [Demo](https://feidu-murex.vercel.app) |
 | AI Vue Flask Blog | Vue 3、Flask、MySQL 全栈博客系统，覆盖前后端接口、内容管理和页面展示。 | Vue, Flask, MySQL | [Repo](https://github.com/linsk27/AI-Vue3-python-flask-Blog) / [Article](https://linsk27.github.io/projects/ai-vue-flask-blog/) |
 
@@ -90,6 +89,6 @@
 
 I build frontend applications, developer tools, data dashboards, and local-first full-stack projects. I care about projects that are runnable, understandable, and easy to continue: clean UI structure, state flow, APIs, deployment notes, documentation, and visible product outcomes.
 
-Selected work includes Local AI Ops, Dev Cockpit, ProofPR, skills-manage, feidu, and several Vue / Nuxt / Flask projects. Most repositories include screenshots, project notes, and a clear path for running or reviewing the result.
+Selected work includes Local AI Ops, Dev Cockpit, ProofPR, feidu, and several Vue / Nuxt / Flask projects. Most repositories include screenshots, project notes, and a clear path for running or reviewing the result.
 
 For collaboration or quick contact, reach me on GitHub or WeChat: `linsk27`.
