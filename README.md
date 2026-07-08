@@ -5,7 +5,7 @@
 <h1 align="center">linsk27</h1>
 
 <p align="center">
-  前端应用 · 开发者工具 · 数据可视化 · 全栈实践
+  前端应用 · 作品集实验室 · 开发者工具 · 数据可视化
 </p>
 
 <p align="center">
@@ -25,6 +25,7 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&labelColor=111827" />
   <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&labelColor=111827" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&labelColor=111827" />
+  <img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?style=flat-square&labelColor=111827" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&labelColor=111827" />
 </p>
 
@@ -32,7 +33,7 @@
 
 ## 中文
 
-我主要做前端应用、开发者工具、数据可视化和本地优先的全栈项目。比起只写 demo，我更关注一个项目能不能被真正跑起来、看明白、继续迭代：界面结构、状态流、接口、部署、文档和展示结果都要闭环。
+我主要做前端应用、开发者工具、数据可视化、作品集实验室和本地优先的全栈项目。比起只写 demo，我更关注一个项目能不能被真正跑起来、看明白、继续迭代：界面结构、状态流、接口、部署、文档和展示结果都要闭环。
 
 这里保留我当前更希望被看到的项目。每个重点项目都会尽量提供 README、截图、运行入口和博客说明，让访问者快速判断它是什么、为什么做、怎么运行。
 
@@ -54,6 +55,7 @@
 
 | 项目 | 简介 | 技术栈 | 链接 |
 | --- | --- | --- | --- |
+| Signal Atlas | Three.js 作品集实验室，用 WebGL 场景、CSS3D 显示器投影和 Vue 项目图谱展示项目证据。 | Three.js, Vue, CSS3D | [Repo](https://github.com/linsk27/signal-atlas) / [Demo](https://linsk27-signal-atlas.vercel.app) / [Article](https://linsk27.github.io/projects/signal-atlas/) |
 | Local AI Ops | 局域网本地阿里云运维工作台，整理云资源、监控检查、告警闭环和排查建议。 | FastAPI, React, PostgreSQL | [Repo](https://github.com/linsk27/local-ai-ops) / [Article](https://linsk27.github.io/projects/local-ai-ops/) |
 | Dev Cockpit | 本地开发工作台，恢复项目状态、启动命令、端口日志、Git 状态和开发上下文。 | React, TypeScript, Node.js | [Repo](https://github.com/linsk27/local-dev-cockpit) / [Article](https://linsk27.github.io/projects/dev-cockpit/) |
 | ProofPR | PR 证据检查器，把测试、依赖、权限、密钥和审查风险整理成维护者报告。 | TypeScript, GitHub Actions | [Repo](https://github.com/linsk27/proof-pr) / [Article](https://linsk27.github.io/projects/proofpr/) |
@@ -65,6 +67,7 @@
 | 方向 | 我在做什么 |
 | --- | --- |
 | 前端工程 | Vue、Nuxt、React、TypeScript 项目结构和可维护界面。 |
+| 作品集实验室 | Three.js、CSS3D 投影、Vue 项目图谱和静态作品集引擎。 |
 | 开发者工具 | 本地开发工作流、项目状态恢复、CLI 和桌面工具。 |
 | 自动化与证据 | GitHub Actions、PR review 报告、风险信号整理。 |
 | 数据可视化 | ECharts 大屏、业务看板、社区和能源数据展示。 |
@@ -87,8 +90,8 @@
 
 ## English
 
-I build frontend applications, developer tools, data dashboards, and local-first full-stack projects. I care about projects that are runnable, understandable, and easy to continue: clean UI structure, state flow, APIs, deployment notes, documentation, and visible product outcomes.
+I build frontend applications, developer tools, data dashboards, portfolio labs, and local-first full-stack projects. I care about projects that are runnable, understandable, and easy to continue: clean UI structure, state flow, APIs, deployment notes, documentation, and visible product outcomes.
 
-Selected work includes Local AI Ops, Dev Cockpit, ProofPR, feidu, and several Vue / Nuxt / Flask projects. Most repositories include screenshots, project notes, and a clear path for running or reviewing the result.
+Selected work includes Signal Atlas, Local AI Ops, Dev Cockpit, ProofPR, feidu, and several Vue / Nuxt / Flask projects. Most repositories include screenshots, project notes, and a clear path for running or reviewing the result.
 
 For collaboration or quick contact, reach me on GitHub or WeChat: `linsk27`.

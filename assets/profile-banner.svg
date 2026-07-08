@@ -1,6 +1,6 @@
 <svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">linsk27 GitHub profile banner</title>
-  <desc id="desc">An elegant profile banner for local developer tools, AI products, and Vue applications.</desc>
+  <desc id="desc">An elegant profile banner for Three.js portfolio labs, local developer tools, and Vue applications.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
       <stop stop-color="#0B1120"/>
@@ -24,7 +24,7 @@
   <g filter="url(#shadow)">
     <rect x="86" y="72" width="486" height="190" rx="24" fill="#F8FAFC" fill-opacity="0.96"/>
     <text x="126" y="136" fill="#0F172A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="42" font-weight="800">linsk27</text>
-    <text x="126" y="178" fill="#334155" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20">Local developer tools, AI products, Vue applications</text>
+    <text x="126" y="178" fill="#334155" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20">Three.js portfolio labs, local tools, Vue applications</text>
     <rect x="126" y="210" width="88" height="8" rx="4" fill="#38BDF8"/>
     <rect x="226" y="210" width="88" height="8" rx="4" fill="#2DD4BF"/>
     <rect x="326" y="210" width="88" height="8" rx="4" fill="#FBBF24"/>
@@ -32,8 +32,8 @@
 
   <g filter="url(#shadow)">
     <rect x="666" y="84" width="176" height="148" rx="22" fill="#0F172A" stroke="#FFFFFF" stroke-opacity="0.12"/>
-    <text x="754" y="141" fill="#E0F2FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">Dev Cockpit</text>
-    <text x="754" y="174" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" text-anchor="middle">Local workflow</text>
+    <text x="754" y="141" fill="#E0F2FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">Signal Atlas</text>
+    <text x="754" y="174" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" text-anchor="middle">3D portfolio</text>
   </g>
 
   <g filter="url(#shadow)">
@@ -44,8 +44,8 @@
 
   <g filter="url(#shadow)">
     <rect x="1078" y="84" width="176" height="148" rx="22" fill="#0F172A" stroke="#FFFFFF" stroke-opacity="0.12"/>
-    <text x="1166" y="141" fill="#FEF3C7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">Vue</text>
-    <text x="1166" y="174" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" text-anchor="middle">Product interface</text>
+    <text x="1166" y="141" fill="#FEF3C7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">Dev Cockpit</text>
+    <text x="1166" y="174" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" text-anchor="middle">Local workflow</text>
   </g>
 
   <text x="86" y="318" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">github.com/linsk27</text>
