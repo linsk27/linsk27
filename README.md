@@ -39,6 +39,7 @@
 
 ## Start here
 
+- GitHub 组织：[linsk-labs](https://github.com/linsk-labs)
 - 项目主页：[linsk27.github.io/projects](https://linsk27.github.io/projects/)
 - GitHub 项目索引：[linsk27.github.io/github](https://linsk27.github.io/github/)
 - 技术笔记：[linsk27.github.io](https://linsk27.github.io/)
@@ -55,10 +56,10 @@
 
 | 项目 | 简介 | 技术栈 | 链接 |
 | --- | --- | --- | --- |
-| Signal Atlas | Three.js 作品集实验室，用 WebGL 场景、CSS3D 显示器投影和 Vue 项目图谱展示项目证据。 | Three.js, Vue, CSS3D | [Repo](https://github.com/linsk27/signal-atlas) / [Demo](https://linsk27-signal-atlas.vercel.app) / [Article](https://linsk27.github.io/projects/signal-atlas/) |
-| Local AI Ops | 局域网本地阿里云运维工作台，整理云资源、监控检查、告警闭环和排查建议。 | FastAPI, React, PostgreSQL | [Repo](https://github.com/linsk27/local-ai-ops) / [Article](https://linsk27.github.io/projects/local-ai-ops/) |
-| Dev Cockpit | 本地开发工作台，恢复项目状态、启动命令、端口日志、Git 状态和开发上下文。 | React, TypeScript, Node.js | [Repo](https://github.com/linsk27/local-dev-cockpit) / [Article](https://linsk27.github.io/projects/dev-cockpit/) |
-| ProofPR | PR 证据检查器，把测试、依赖、权限、密钥和审查风险整理成维护者报告。 | TypeScript, GitHub Actions | [Repo](https://github.com/linsk27/proof-pr) / [Article](https://linsk27.github.io/projects/proofpr/) |
+| Signal Atlas | Three.js 作品集实验室，用 WebGL 场景、CSS3D 显示器投影和 Vue 项目图谱展示项目证据。 | Three.js, Vue, CSS3D | [Repo](https://github.com/linsk-labs/signal-atlas) / [Demo](https://linsk27-signal-atlas.vercel.app) / [Article](https://linsk27.github.io/projects/signal-atlas/) |
+| Local AI Ops | 局域网本地阿里云运维工作台，整理云资源、监控检查、告警闭环和排查建议。 | FastAPI, React, PostgreSQL | [Repo](https://github.com/linsk-labs/local-ai-ops) / [Article](https://linsk27.github.io/projects/local-ai-ops/) |
+| Dev Cockpit | 本地开发工作台，恢复项目状态、启动命令、端口日志、Git 状态和开发上下文。 | React, TypeScript, Node.js | [Repo](https://github.com/linsk-labs/local-dev-cockpit) / [Article](https://linsk27.github.io/projects/dev-cockpit/) |
+| ProofPR | PR 证据检查器，把测试、依赖、权限、密钥和审查风险整理成维护者报告。 | TypeScript, GitHub Actions | [Repo](https://github.com/linsk-labs/proof-pr) / [Article](https://linsk27.github.io/projects/proofpr/) |
 | feidu | 智慧社区数据大屏，覆盖安防监控、CIM 平台、能源数据和可视化看板。 | Nuxt, Vue, ECharts | [Repo](https://github.com/linsk27/feidu) / [Demo](https://feidu-murex.vercel.app) |
 | AI Vue Flask Blog | Vue 3、Flask、MySQL 全栈博客系统，覆盖前后端接口、内容管理和页面展示。 | Vue, Flask, MySQL | [Repo](https://github.com/linsk27/AI-Vue3-python-flask-Blog) / [Article](https://linsk27.github.io/projects/ai-vue-flask-blog/) |
 
