@@ -19,11 +19,13 @@ Frontend developer focused on useful tools and polished product experiences.
 - **[个人作品](https://github.com/linsk27?tab=repositories&q=&type=source)**：全栈应用、Vue 项目与数据可视化作品。
 - **[技术笔记](https://linsk27.github.io/archives/)**：项目复盘、前端基础与工程实践。
 
-## 项目短片
+## Signal Atlas / Reference Edition
 
-<a href="./assets/showcase/linsk27-projects-showcase.mp4">
-  <img src="./assets/showcase/linsk27-projects-showcase-cover.png" alt="linsk27 精选项目短片封面" width="100%" />
+<a href="https://linsk27.dpdns.org/">
+  <img src="./assets/showcase/signal-atlas-reference-edition-v0.25.7.png" alt="Signal Atlas v0.25.7 Reference Edition 工作站" width="100%" />
 </a>
+
+[在线体验](https://linsk27.dpdns.org/) / [项目短片](./assets/showcase/linsk27-projects-showcase.mp4)
 
 ## 联系
 
